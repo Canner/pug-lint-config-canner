@@ -1,0 +1,22 @@
+{
+  "name": "pug-lint-config-canner",
+  "version": "1.0.0",
+  "description": "Canner Pug coding standard",
+  "author": "chilijung <https://github.com/chilijung>",
+  "license": "MIT",
+  "keywords": [
+    "puglint",
+    "puglintconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Canner/pug-lint-config-canner.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "pug-lint": "^2.2.0"
+  }
+}
