@@ -12,6 +12,7 @@ npm install --save-dev pug-lint-config-canner
 Then create a `.pug-lintrc` in the project root.
 
 ```json
-{ "extends": "canner"
+{
+  "extends": "canner"
 }
 ```
