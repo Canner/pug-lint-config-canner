@@ -1,5 +1,7 @@
 # Canner Pug coding standard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Canner/pug-lint-config-canner.svg)](https://greenkeeper.io/)
+
 ## Usage
 
 In your project folder:
